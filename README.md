@@ -1,3 +1,8 @@
+[你围绕冯德建公式系统完成了一套.docx](https://github.com/user-attachments/files/28424451/default.docx)
+[将工业级训练脚本升级为企业级训.docx](https://github.com/user-attachments/files/28424442/default.docx)
+[冯德建公式系统-工业级训练脚本.docx](https://github.com/user-attachments/files/28424438/-.docx)
+[冯德建公式系统-企业级训练脚本.docx](https://github.com/user-attachments/files/28424437/-.docx)
+[冯德建公式系统-企业级训练脚本(1).docx](https://github.com/user-attachments/files/28424435/-.1.docx)
 # CORGIZ#科尔吉兹
 文档
 
