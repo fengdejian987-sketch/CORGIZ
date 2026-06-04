@@ -1,0 +1,36 @@
+site:
+  title: CORGIZ 文档中心
+  description: 文档、知识库和学习资源
+  url: https://fengdejian987-sketch.github.io/CORGIZ
+  baseurl: /CORGIZ
+
+plugins:
+  - jekyll-default-layouts
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+markdown: kramdown
+theme: jekyll-theme-cayman
+
+# Navigation
+nav:
+  - title: 首页
+    url: /
+  - title: 文档
+    url: /docs/
+  - title: 关于
+    url: /about/
+
+# Build settings
+exclude:
+  - .gitignore
+  - README.md
+  - LICENSE
+  - CONTRIBUTING.md
+  - CODE_OF_CONDUCT.md
+
+# Social
+social:
+  - platform: github
+    url: https://github.com/fengdejian987-sketch/CORGIZ
